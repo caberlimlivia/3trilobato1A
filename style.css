@@ -1,6 +1,6 @@
 h1{
     text-align: center;
-    font-size: 35px;
+    font-size: 65px;
     color: black;
    }
     body{
@@ -9,7 +9,7 @@ h1{
     .bob {
        width: 60%;
        left:60%;
-       height:60%;
+       height:90%;
        margin-top: 0%;
     }
    
@@ -19,5 +19,5 @@ h1{
     }
     .button{
       display: inline-block;
-      padding:10px 20px;
+      padding:50px 20px;
     }
